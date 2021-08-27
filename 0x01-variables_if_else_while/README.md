@@ -17,3 +17,9 @@ File 7 program that prints the lowercase alphabet in reverse, followed by a new 
 File 8 C program that prints all the numbers of base 16 in lowercase, followed by a new line, using only the putchar function exactly three times.
 
 File 9  program that prints all possible combinations of single-digit numbers, using only the putchar function exactly four times without any variables of type char
+
+File 10 program that prints all possible different combinations of two digits using only the putchar function exactly five times without any variables of type char
+
+File 11 program that prints all possible different combinations of three digits using only the putchar function exactly six times without any variables of type char
+
+File 12 program that prints all possible combinations of two-digit numbers using only the putchar function exactly eight times without any variables of type char
