@@ -13,3 +13,7 @@ File 5. strstr a function that locates a substring.
 File 6. Chess is mental torture a function that prints the chessboard.
 
 File 7. The line of life is a ragged diagonal between duty and desire a function that prints the sum of the two diagonals of a square matrix of integers.
+
+File 8. Double pointer, double fun a function that sets the value of a pointer to a char.
+
+File 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure a file that contains the password for the crackme2 executable.
